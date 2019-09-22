@@ -5,7 +5,7 @@ A mod that seeks to make minor changes to the early game economy through tech ch
 been made easier for certain countries with large amounts of aristocrat and capitalist pops (the UK and Prussia are the best two examples)
 and rgo outputs have been made better to avoid the major resource shortages that can occur during the 20th century.
 
-Specificity on mod changes:
+To specify on mod changes:
 
 - Capitalist and aristocrat needs increased
 - RGO and factory throughput doubled for railroads
