@@ -1,7 +1,8 @@
 # HEM
 
-A small side project to make the game more in line with what I think it ought to be, and for better multiplayer experiences.
+Historical Experimentation Mod for Victoria 2 
 
+A small side project to make the game more in line with what I think it ought to be, and for better multiplayer experiences.
 
 Most recent changelog:
 
@@ -20,7 +21,7 @@ Economy
     Railroad factory throughput bonus and rgo bonus increased by 50% (1 -> 1.5 for both)
     War exhaustion effect on rgo and factory throughput increased (-0.01 -> -0.02)
     Guard supply needs increased
-	    Small arms 0.02 -> -0.08
+	    Small arms 0.02 -> 0.08
 	    Canned food 0.07 -> 0.14
 	    Ammunition 0.01 -> 0.03
     Artillery 0 -> 0.05
